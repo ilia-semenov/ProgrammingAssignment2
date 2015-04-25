@@ -1,5 +1,5 @@
 ## Set of functions for caching the results of matrix invrerse.
-## One fucncyion is a structure storing cached results, another is an inverse
+## One fucnction is a structure storing cached results, another is an inverse
 ## function that uses solve() ti onverse if the matrix passed first time and
 ## gets cached result otherwise.
 ## By isemenov
